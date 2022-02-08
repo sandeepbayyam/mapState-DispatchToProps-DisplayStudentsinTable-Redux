@@ -1,0 +1,16 @@
+h1, p {
+  font-family: Lato;
+}
+.betterview{
+  border : 2px solid black;
+  margin:5px;
+  padding: 5px;
+}
+table{
+  border-collapse:collapse;
+  width:500px;
+  text-align: center;
+}
+th,td{
+  padding: 10px;
+}
